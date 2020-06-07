@@ -1,0 +1,34 @@
+ 一.知识库管理
+ 1.列表查询接口返回值：
+ {
+		"status": "SUCCESS",
+		"message": "执行成功",
+		"data": [{
+			"id": "99D37a4c-CE94-E9bD-C4b1-3FcC6c5Dfd37",
+			"title": "姚静标题",
+			"content": "侯娟内容内容内容内容内容内容",
+			"publicState": "已发布",
+			"keywords": ["关键字1", "关键字2"],
+			"depositoryBank": "存管银行",
+			"businessType": "业务类型",
+			"businessScene": "业务场景",
+			"createTime": "1974-07-19",
+			"updateTime": "2018-04-26",
+			"creator": "董杰",
+			"viewCount": 92
+		} , {
+			"id": "dDdBF79C-f1D8-93dA-9ffd-DBd3Ddf2a6DA",
+			"title": "武强标题",
+			"content": "白娟内容内容内容内容内容内容",
+			"publicState": "未发布",
+			"keywords": ["关键字1", "关键字2"],
+			"depositoryBank": "存管银行",
+			"businessType": "业务类型",
+			"businessScene": "业务场景",
+			"createTime": "2013-09-09",
+			"updateTime": "2015-03-20",
+			"creator": "龚娜",
+			"viewCount": 51
+		}],
+		"count": 2
+	}
